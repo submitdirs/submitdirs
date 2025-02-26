@@ -6,6 +6,10 @@ The following is a curated list of websites provided by SubmitDirs.com.
 
 Submit Your Product to 100+ Directories. Improve your website's SEO and visibility by getting listed in 100+ quality directories to build powerful backlinks
 
+### [AI Describe Picture](https://describepicture.org/)
+
+Use AI technology to intelligently analyze image content, automatically generate accurate descriptions and tags, improve content management efficiency
+
 ### [DeepMaker AI](https://deepmaker.ai/)
 
 DeepMaker AI offers a series of advanced AI image tools: background remover, image enhancer, object eraser, image editor, image generator, avatar creator, face swapper, tattoo generator, etc. 
@@ -18,6 +22,10 @@ Discover the advantages of prefab houses in China, where innovative design meets
 
 PNGFree.ai offers millions of high-quality free PNG images, and AI tools like Free AI background remover.
 
+### [Omagic AI](https://omagic.org/)
+
+Omagic AI is a groundbreaking AI-powered creative platform that democratizes professional 3D content creation. It transforms ordinary content into dynamic 3D videos with unmatched ease and speed. 
+
 ### [Chat Stream](https://www.chatstream.org)
 
 An unofficial platform by DeepSeek enthusiasts providing self-hosted access to DeepSeek V3 and R1 (671B) language models. Independent from DeepSeek official, it offers fast and secure access through self-managed servers.
@@ -29,6 +37,10 @@ Sprunki Incredibox, a fan-made mod inspired by the original Incredibox game. Mix
 ### [Arco AI](https://www.arco.ai/)
 
 Arco AI - The AI-Powered Link in Bio Solution.Convert More with AI-Designed Link Pages. Transform your links into conversion-optimized pages with AI design. Arco AI creates visually stunning, high-converting link pages and websites that drive real results.
+
+### [Giant Tetris Tumble](https://gianttetris.com/)
+
+Discover the innovative Giant Tetris Tumble game that redefines classic Tetris with exciting tumbling mechanics.
 
 ### [Ninjafy AI](https://www.ninjafy.ai/)
 
