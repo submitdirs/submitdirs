@@ -6,6 +6,18 @@ The following is a curated list of websites provided by SubmitDirs.com.
 
 Submit Your Product to 100+ Directories. Improve your website's SEO and visibility by getting listed in 100+ quality directories to build powerful backlinks
 
+### [Dirs.cc](https://dirs.cc/)
+
+Dirs.cc is a directory that helps users discover the best tools, products, and websites, along with launching their own.
+
+### [Supametas.AI](https://supametas.ai)
+
+Convert unstructured data to LLM RAG-ready structured data, simplifying the collection, building, preprocessing, and integration into the knowledge base.
+
+### [Color Block Jam](https://www.colorblockjam.org)
+
+Color Block Jam walkthrough provides detailed solutions and video guides for all puzzle levels. all level videos included
+
 ### [AI Describe Picture](https://describepicture.org/)
 
 Use AI technology to intelligently analyze image content, automatically generate accurate descriptions and tags, improve content management efficiency
